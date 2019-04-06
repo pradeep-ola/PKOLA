@@ -10,4 +10,6 @@ public class Calucator {
 	{
 		return x-y;
 	}
+	public void m2()
+	{}
 }
